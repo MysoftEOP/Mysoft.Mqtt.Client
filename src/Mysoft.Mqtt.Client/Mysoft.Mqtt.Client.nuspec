@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://rdc.mingyuanyun.com</licenseUrl>
+    <projectUrl>https://rdc.mingyuanyun.com</projectUrl>
+    <iconUrl>https://rdc.mingyuanyun.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>mqtt client mysoft</tags>
+  </metadata>
+</package>

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>RDC Team</Authors>
+    <Company>Mysoft</Company>
+    <Product>RDC</Product>
+    <Description>A mqtt client library.</Description>
+    <PackageTags>mqtt client mysoft</PackageTags>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Windsor.MsDependencyInjection" Version="3.3.1" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="M2MqttDotnetCore" Version="1.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Polly" Version="6.1.0" />
+  </ItemGroup>
+
+</Project>
