@@ -6,8 +6,15 @@
     <Company>Mysoft</Company>
     <Product>RDC</Product>
     <Description>A mqtt client library.</Description>
-    <PackageTags>mqtt client mysoft</PackageTags>
-    <Version>1.0.1</Version>
+    <PackageTags>mysoft mqtt client sdk m2mqtt dotnetcore standard</PackageTags>
+    <Version>1.0.2</Version>
+    <PackageProjectUrl>https://github.com/MysoftEOP/Mysoft.Mqtt.Client</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/MysoftEOP/Mysoft.Mqtt.Client/blob/master/LICENSE</PackageLicenseUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageReleaseNotes>Expose Property [IsConnected]</PackageReleaseNotes>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageIconUrl>https://rdc.mingyuanyun.com/favicon.ico</PackageIconUrl>
+    <Copyright>© 2019 Mysoft. All Right Reserved</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

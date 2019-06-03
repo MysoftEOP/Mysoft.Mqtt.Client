@@ -19,5 +19,10 @@ namespace Mysoft.Mqtt.Client
         /// </summary>
         /// <returns></returns>
         void Flush();
+
+        /// <summary>
+        /// 是否连接
+        /// </summary>
+        bool IsConnected { get; }
     }
 }

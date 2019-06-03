@@ -48,7 +48,7 @@ namespace Mysoft.Mqtt.Client
         /// <summary>
         /// 标识客户端是否已连接
         /// </summary>
-        private bool IsConnected
+        public override bool IsConnected
         {
             get
             {

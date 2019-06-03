@@ -9,6 +9,8 @@ namespace Mysoft.Mqtt.Client
     /// </summary>
     public abstract class MysoftMqttClient : IMysoftMqttClient
     {
+        public abstract bool IsConnected { get; }
+
         /// <summary>
         /// 收到消息事件
         /// </summary>
